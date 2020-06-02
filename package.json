@@ -1,0 +1,10 @@
+{
+  "name": "be.laetitia.room",
+  "displayName": "Laetitia's room",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "this is a room",
+  "keywords": ["Script","Tool"],
+  "category": "Script",
+  "dependencies":{}
+}
