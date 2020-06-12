@@ -337,6 +337,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3732029364144537178}
     m_Modifications:
+    - target: {fileID: -5519234564609293913, guid: fc9d7556ab698c14b97ede1cd1f4f234,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c89e4de1e1b3d7748a66b0f350c64663, type: 2}
+    - target: {fileID: -5519234564609293913, guid: fc9d7556ab698c14b97ede1cd1f4f234,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c89e4de1e1b3d7748a66b0f350c64663, type: 2}
     - target: {fileID: -4216859302048453862, guid: fc9d7556ab698c14b97ede1cd1f4f234,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -392,11 +402,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2741767151584285765, guid: fc9d7556ab698c14b97ede1cd1f4f234,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f98ee52b17b57d74eabe8f38b1a7e88d, type: 2}
     - target: {fileID: -927199367670048503, guid: fc9d7556ab698c14b97ede1cd1f4f234,
         type: 3}
       propertyPath: m_Name
       value: RoomLaetitia5
       objectReference: {fileID: 0}
+    - target: {fileID: -333786866280186964, guid: fc9d7556ab698c14b97ede1cd1f4f234,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55248fa9a4a30814da1a40fe7ec181e0, type: 2}
+    - target: {fileID: 443835384974665109, guid: fc9d7556ab698c14b97ede1cd1f4f234,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c9d4f9f0d6f13d64e834a37445156cc5, type: 2}
+    - target: {fileID: 6872184497093018250, guid: fc9d7556ab698c14b97ede1cd1f4f234,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb5cb8fa5ac392b4cb5788c56641180a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc9d7556ab698c14b97ede1cd1f4f234, type: 3}
 --- !u!4 &5612931684788026304 stripped
